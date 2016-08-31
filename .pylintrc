@@ -1,0 +1,2 @@
+[GENERAL]
+disable = missing-docstring,invalid-name,superfluous-parens,import-error
